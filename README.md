@@ -6,6 +6,7 @@ Utilizando Android Studio se realizo una aplicacion móvil sensible al contexto,
 
 La aplicación utiliza la cámara del dispositivo móvil para el reconocimiento de imágenes, y mediante el uso de un modelo de aprendizaje automático, determina de qué monumento se trata la imágen.
 El modelo de aprendizaje utilizado es el [siguiente](https://www.kaggle.com/models/google/landmarks/tensorFlow1/classifier-south-america-v1).
+Apk simple de testeo. [Link](https://github.com/Keibord/Clasificador_de_monumentos/releases/tag/Test)
 
 ### Mejoras
 
